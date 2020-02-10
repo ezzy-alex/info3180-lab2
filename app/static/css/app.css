@@ -1,3 +1,10 @@
 body {
     padding-top: 5rem;
 }
+.info{
+    border:5px solid black;
+    width:500px;
+    height:300px;
+    border-radius: 7px;
+    padding-left: 20px;
+}
